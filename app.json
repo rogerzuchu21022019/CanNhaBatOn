@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CanNhaBatOn",
+    "slug": "CanNhaBatOn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
